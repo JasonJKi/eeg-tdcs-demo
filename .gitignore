@@ -1,0 +1,7 @@
+#(star ignores all files and folders)
+data
+data/* 
+# (ignore a specific foler in the data folder)
+# data/raw 
+# (exclamation ignore everything other than a specific folder)
+data/processed 
